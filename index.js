@@ -12,7 +12,7 @@ function updateClock(){
 
     const tickSound = document.getElementById('tick-sound');
     if (tickSound) {
-       // tickSound.currentTime = 0;
+        tickSound.currentTime = 0;
         tickSound.play();
     }
 
