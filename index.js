@@ -12,7 +12,7 @@ function updateClock(){
 
     const tickSound = document.getElementById('tick-sound');
     if (tickSound) {
-       // tickSound.currentTime = 0;
+        tickSound.currentTime = 0;
         tickSound.play();
     }
 
@@ -21,4 +21,5 @@ function updateClock(){
 
 updateClock();
 setInterval(updateClock, 1000);
+
 
