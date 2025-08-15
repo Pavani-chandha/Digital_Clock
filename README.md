@@ -23,6 +23,6 @@ JavaScript
 
 Clone the repository:
 
-git clone https://github.com/Pavani-Chandha/digital-clock.git
+[git clone https://github.com/Pavani-Chandha/digital-clock.git](https://github.com/Pavani-chandha/Digital_Clock.git)
 
 
